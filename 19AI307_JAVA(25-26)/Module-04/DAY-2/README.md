@@ -102,9 +102,9 @@ If AQI matches its range → print action message
 
 ```
 /*
-Program to implement a SOLID Principles in Java Program
-Developed by: Laakshit D
-RegisterNumber:  212222230071
+Program to implement variables and Operators using Java
+Developed by: SASIRAJKUMAR T J
+RegisterNumber: 212222230137
 */
 ```
 
