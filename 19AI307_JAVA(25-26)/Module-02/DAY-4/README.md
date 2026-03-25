@@ -31,9 +31,9 @@ To Write a program to access a static variable using both class name and object.
 
 ```
 /*
-Program to implement a Variable scope and Constructor using Java
-Developed by: Laakshit D
-RegisterNumber:  212222230071
+Program to implement variables and Operators using Java
+Developed by: SASIRAJKUMAR T J
+RegisterNumber: 212222230137
 */
 ```
 
