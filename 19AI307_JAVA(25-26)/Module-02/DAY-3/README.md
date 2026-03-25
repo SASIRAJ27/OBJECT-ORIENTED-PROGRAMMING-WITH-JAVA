@@ -36,9 +36,9 @@ To Write a Java program to create a class called Smartphone with private instanc
 
 ```
 /*
-Program to implement a Access Specifiers using Java
-Developed by: Laakshit D
-RegisterNumber:  212222230071
+Program to implement variables and Operators using Java
+Developed by: SASIRAJKUMAR T J
+RegisterNumber: 212222230137
 */
 ```
 
