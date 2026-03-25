@@ -35,9 +35,9 @@ To create a class Person with attributes name and age. Write a method greet() th
 
 ```
 /*
-Program to implement a Class and Objects using Java
-Developed by: Laakshit D
-RegisterNumber: 212222230071
+Program to implement variables and Operators using Java
+Developed by: SASIRAJKUMAR T J
+RegisterNumber: 212222230137
 */
 ```
 
